@@ -1,0 +1,1 @@
+https://dashboard.promixacademy.com/
