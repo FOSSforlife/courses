@@ -1,6 +1,7 @@
 - [Faust](https://github.com/grame-cncm/faustlibraries/blob/master/misceffects.lib)
 - [Guitarix](https://github.com/brummer10/guitarix)
 - [Misstortion](https://github.com/nimbletools/misstortion1)
+- [Protoplug](https://github.com/pac-dev/protoplug/tree/master/ProtoplugFiles/effects)
 - [SuperCollider UGens](https://github.com/supercollider/sc3-plugins/blob/main/source/DistortionUGens/sc/DistortionPlugins.sc)
 - [Temper](https://github.com/creativeintent/temper)
 - [Wolf Shaper](https://github.com/wolf-plugins/wolf-shaper)

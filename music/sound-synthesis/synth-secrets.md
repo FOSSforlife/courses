@@ -1,4 +1,8 @@
-# Sound on Sound - Synth Secrets
+---
+title: Synth Secrets
+author: Sound on Sound
+url: https://www.soundonsound.com/techniques/whats-sound
+---
 
 - [x] [What&#039;s In A Sound?](https://www.soundonsound.com/techniques/whats-sound)
 - [x] [The Physics Of Percussion](https://www.soundonsound.com/techniques/physics-percussion)

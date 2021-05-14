@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "front-matter": "^4.0.2",
+    "no-case": "^3.0.4",
+    "title-case": "^3.0.3",
+    "walker": "^1.0.7"
+  }
+}
