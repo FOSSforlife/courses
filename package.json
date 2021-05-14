@@ -1,8 +1,10 @@
 {
   "dependencies": {
+    "dashify": "^2.0.0",
     "front-matter": "^4.0.2",
     "no-case": "^3.0.4",
     "title-case": "^3.0.3",
+    "udemy-crawler": "git+https://github.com/galakhov/udemy-crawler.git",
     "walker": "^1.0.7"
   }
 }

@@ -4,11 +4,21 @@ const { noCase } = require('no-case');
 const fs = require('fs');
 const frontMatter = require('front-matter')
 
+function sortKeys(objectToSort) {
+  return Object.keys(objectToSort).sort((a, b) => a.toUpperCase() < b.toUpperCase() ? -1 : 1).reduce(
+    (obj, key) => {
+      obj[key] = objectToSort[key];
+      return obj;
+    },
+    {}
+  );
+}
+
 const dirs = {};
 
 Walker('.')
 .filterDir(function(dir, stat) {
-  const ignoreDirs = ['.git', '.vscode', 'node_modules']
+  const ignoreDirs = ['.git', '.vscode', 'node_modules', 'crawler-output']
   if (ignoreDirs.includes(dir)) {
     return false;
   }
@@ -35,10 +45,10 @@ Walker('.')
   }
 })
 .on('end', () => {
-  let mdOutput = '';
-  for(const [dir, dirFiles] of Object.entries(dirs)) {
+  let mdOutput = '# Personal Course/Book Progress\n\nProgress is derived from the Markdown files in each folder, counting up the checked and unchecked boxes in each file. Feel free to fork this repo and make your own course list!';
+  for(const [dir, dirFiles] of Object.entries(sortKeys(dirs))) {
     const breadcrumbs = dir.split('/');
-    const headerSymbol = '#'.repeat(breadcrumbs.length);
+    const headerSymbol = '#'.repeat(breadcrumbs.length + 1);
     const dirTitle = titleCase(noCase(breadcrumbs.pop()));
 
     mdOutput += `\n\n${headerSymbol} ${dirTitle}`;
@@ -55,8 +65,8 @@ Walker('.')
 
       const percentage = Math.floor(checked * 100 / unchecked) || 0;
 
-      mdOutput += `\n- https://progress-bar.dev/${percentage} [${title} by ${author}](https://github.com/fossforlife/courses/${file})`;
+      mdOutput += `\n- ![${percentage}%](https://progress-bar.dev/${percentage}/) [${title}](https://github.com/fossforlife/courses/blob/main/${file}) by ${author}`;
     }
   }
-  console.log(mdOutput);
+  fs.writeFileSync('README.md', mdOutput);
 })

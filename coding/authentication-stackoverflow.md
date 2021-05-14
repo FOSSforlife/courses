@@ -13,7 +13,7 @@ url: https://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-
 - [ ] PART VII: Distributed Brute Force Attacks
 - [ ] PART VIII: Two-Factor Authentication and Authentication Providers
 
-# MUST-READ LINKS About Web Authentication
+## MUST-READ LINKS About Web Authentication
 
 1. [OWASP Guide To Authentication](https://www.owasp.org/index.php/Authentication_Cheat_Sheet) / [OWASP Authentication Cheat Sheet](https://www.owasp.org/index.php/Authentication_Cheat_Sheet)
 2. [Dos and Don’ts of Client Authentication on the Web (very readable MIT research paper)](https://pdos.csail.mit.edu/papers/webauth:sec10.pdf)
