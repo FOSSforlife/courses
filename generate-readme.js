@@ -45,7 +45,7 @@ Walker('.')
   }
 })
 .on('end', () => {
-  let mdOutput = '# Personal Course/Book Progress\n\nProgress is derived from the Markdown files in each folder, counting up the checked and unchecked boxes in each file. Feel free to fork this repo and make your own course list!';
+  let mdOutput = '# Personal Course/Book Progress\n\nProgress bars are [generated](generate-readme.js) from the Markdown files in each folder, counting up the checked and unchecked boxes in each file. Feel free to fork this repo and make your own course list!';
   for(const [dir, dirFiles] of Object.entries(sortKeys(dirs))) {
     const breadcrumbs = dir.split('/');
     const headerSymbol = '#'.repeat(breadcrumbs.length + 1);
@@ -65,7 +65,7 @@ Walker('.')
 
       const percentage = Math.floor(checked * 100 / unchecked) || 0;
 
-      mdOutput += `\n- ![${percentage}%](https://progress-bar.dev/${percentage}/) [${title}](https://github.com/fossforlife/courses/blob/main/${file}) by ${author}`;
+      mdOutput += `\n- ![${percentage}%](https://progress-bar.dev/${percentage}/) [${title}](${file}) by ${author}`;
     }
   }
   fs.writeFileSync('README.md', mdOutput);
