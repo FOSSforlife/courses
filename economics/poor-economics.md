@@ -1,6 +1,7 @@
 ---
 title: "Poor Economics: A Radical Rethinking of the Way to Fight Global Policy"
 author: Abhijit V. Banerjee & Esther Duflo
+url: https://www.amazon.com/Poor-Economics-Radical-Rethinking-Poverty-ebook/dp/B007CI81IQ/
 ---
 
 # Intro

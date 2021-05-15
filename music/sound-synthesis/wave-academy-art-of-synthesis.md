@@ -1,6 +1,6 @@
 ---
 title: The Art of Synthesis
-author:
+author: Myagi
 url: https://www.adsrsounds.com/product/courses/the-art-of-synthesis/s/
 ---
 
