@@ -4,8 +4,8 @@ author: Stack Overflow
 url: https://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication
 ---
 
-- [ ] PART I: How To Log In
-- [ ] PART II: How To Remain Logged In - The Infamous "Remember Me" Checkbox
+- [x] PART I: How To Log In
+- [x] PART II: How To Remain Logged In - The Infamous "Remember Me" Checkbox
 - [ ] PART III: Using Secret Questions
 - [ ] PART IV: Forgotten Password Functionality
 - [ ] PART V: Checking Password Strength

@@ -3,28 +3,31 @@ title: "SQL and PostgreSQL: The Complete Developer's Guide"
 author: Stephen Grider
 url: https://www.udemy.com/course/sql-and-postgresql/
 ---
+
 # SQL and PostgreSQL: The Complete Developer's Guide
 
 Stephen Grider
 
 ## 1. Simple - But Powerful - SQL Statements
+
 - [x] [Join Our Community!](https://udemy.com//course/sql-and-postgresql/learn/lecture/24615520) (00:07)
 - [x] [Course Resources](https://udemy.com//course/sql-and-postgresql/learn/lecture/26153328) (00:29)
 - [x] [What is PostgreSQL All About?](https://udemy.com//course/sql-and-postgresql/learn/lecture/22800007) (04:12)
 - [x] [Database Design](https://udemy.com//course/sql-and-postgresql/learn/lecture/22800061) (05:11)
 - [x] [Database Terminology](https://udemy.com//course/sql-and-postgresql/learn/quiz/4971052) (3 questions)
 - [x] [Creating Tables](https://udemy.com//course/sql-and-postgresql/learn/lecture/22800079) (04:42)
-- [ ] [Analyzing CREATE TABLE](https://udemy.com//course/sql-and-postgresql/learn/lecture/22800153) (03:30)
-- [ ] [Inserting Data Into a Table](https://udemy.com//course/sql-and-postgresql/learn/lecture/22800159) (04:49)
-- [ ] [Retrieving Data with Select](https://udemy.com//course/sql-and-postgresql/learn/lecture/22800163) (02:07)
-- [ ] [Create, Insert, and Select!](https://udemy.com//course/sql-and-postgresql/learn/quiz/4979832) (1 question)
+- [x] [Analyzing CREATE TABLE](https://udemy.com//course/sql-and-postgresql/learn/lecture/22800153) (03:30)
+- [x] [Inserting Data Into a Table](https://udemy.com//course/sql-and-postgresql/learn/lecture/22800159) (04:49)
+- [x] [Retrieving Data with Select](https://udemy.com//course/sql-and-postgresql/learn/lecture/22800163) (02:07)
+- [x] [Create, Insert, and Select!](https://udemy.com//course/sql-and-postgresql/learn/quiz/4979832) (1 question)
 - [x] [Calculated Columns](https://udemy.com//course/sql-and-postgresql/learn/lecture/22800207) (04:37)
-- [ ] [Calculating Phone Revenue](https://udemy.com//course/sql-and-postgresql/learn/lecture/22800219) (00:58)
+- [x] [Calculating Phone Revenue](https://udemy.com//course/sql-and-postgresql/learn/lecture/22800219) (00:58)
 - [x] [Using Calculated Columns](https://udemy.com//course/sql-and-postgresql/learn/quiz/4979802) (1 question)
 - [x] [Exercise Solution](https://udemy.com//course/sql-and-postgresql/learn/lecture/22800223) (01:03)
-- [ ] [String Operators and Functions](https://udemy.com//course/sql-and-postgresql/learn/lecture/22800243) (06:17)
+- [x] [String Operators and Functions](https://udemy.com//course/sql-and-postgresql/learn/lecture/22800243) (06:17)
 
 ## 2. Filtering Records
+
 - [ ] [Filtering Rows with "Where"](https://udemy.com//course/sql-and-postgresql/learn/lecture/22800251) (03:49)
 - [ ] [More on the "Where" Keyword](https://udemy.com//course/sql-and-postgresql/learn/lecture/22800273) (02:30)
 - [ ] [Compound "Where" Clauses](https://udemy.com//course/sql-and-postgresql/learn/lecture/22800275) (05:24)
@@ -45,6 +48,7 @@ Stephen Grider
 - [ ] [Solution for Deleting Rows](https://udemy.com//course/sql-and-postgresql/learn/lecture/22800523) (01:17)
 
 ## 3. Working with Tables
+
 - [ ] [The Plan Moving Forward](https://udemy.com//course/sql-and-postgresql/learn/lecture/22801423) (01:43)
 - [ ] [Approaching Database Design](https://udemy.com//course/sql-and-postgresql/learn/lecture/22801431) (07:28)
 - [ ] [Let's Design Some Schema](https://udemy.com//course/sql-and-postgresql/learn/quiz/4981466) (2 questions)
@@ -70,6 +74,7 @@ Stephen Grider
 - [ ] [Adding Some Complexity](https://udemy.com//course/sql-and-postgresql/learn/lecture/22807373) (02:56)
 
 ## 4. Relating Records with Joins
+
 - [ ] [Adding Some Data](https://udemy.com//course/sql-and-postgresql/learn/lecture/22805231) (03:56)
 - [ ] [Queries with Joins and Aggregations](https://udemy.com//course/sql-and-postgresql/learn/lecture/22801629) (03:23)
 - [ ] [Joining Data from Different Tables](https://udemy.com//course/sql-and-postgresql/learn/lecture/22801631) (07:38)
@@ -94,6 +99,7 @@ Stephen Grider
 - [ ] [Exercise Solution](https://udemy.com//course/sql-and-postgresql/learn/lecture/22801707) (02:52)
 
 ## 5. Aggregation of Records
+
 - [ ] [Aggregating and Grouping](https://udemy.com//course/sql-and-postgresql/learn/lecture/22801717) (02:10)
 - [ ] [Picturing Group By](https://udemy.com//course/sql-and-postgresql/learn/lecture/22801721) (05:29)
 - [ ] [Selecting Columns After Grouping](https://udemy.com//course/sql-and-postgresql/learn/quiz/4987106) (2 questions)
@@ -115,6 +121,7 @@ Stephen Grider
 - [ ] [A Quick Solution](https://udemy.com//course/sql-and-postgresql/learn/lecture/22801821) (02:32)
 
 ## 6. Working with Large Datasets
+
 - [ ] [A New Dataset](https://udemy.com//course/sql-and-postgresql/learn/lecture/21629748) (10:22)
 - [ ] [Investigating This Dataset](https://udemy.com//course/sql-and-postgresql/learn/lecture/22801843) (02:34)
 - [ ] [Some Group By Practice](https://udemy.com//course/sql-and-postgresql/learn/lecture/22801847) (01:20)
@@ -125,6 +132,7 @@ Stephen Grider
 - [ ] [Of Course You Remember!](https://udemy.com//course/sql-and-postgresql/learn/lecture/22801881) (01:25)
 
 ## 7. Sorting Records
+
 - [ ] [The Basics of Sorting](https://udemy.com//course/sql-and-postgresql/learn/lecture/22801907) (02:14)
 - [ ] [Two Variations on Sorting](https://udemy.com//course/sql-and-postgresql/learn/lecture/22801917) (02:40)
 - [ ] [Offset and Limit](https://udemy.com//course/sql-and-postgresql/learn/lecture/22801921) (06:38)
@@ -133,6 +141,7 @@ Stephen Grider
 - [ ] [Exercise Solution](https://udemy.com//course/sql-and-postgresql/learn/lecture/22801931) (01:20)
 
 ## 8. Unions and Intersections with Sets
+
 - [ ] [Handling Sets with Union](https://udemy.com//course/sql-and-postgresql/learn/lecture/22801943) (05:43)
 - [ ] [A Few Notes on Union](https://udemy.com//course/sql-and-postgresql/learn/lecture/22801951) (03:45)
 - [ ] [Commonalities with Intersect](https://udemy.com//course/sql-and-postgresql/learn/lecture/22801959) (03:23)
@@ -142,6 +151,7 @@ Stephen Grider
 - [ ] [Exercise Solution](https://udemy.com//course/sql-and-postgresql/learn/lecture/22801985) (01:27)
 
 ## 9. Assembling Queries with SubQueries
+
 - [ ] [What's a Subquery?](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802011) (05:48)
 - [ ] [Thinking About the Structure of Data](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802021) (04:46)
 - [ ] [What's the Data Look Like?](https://udemy.com//course/sql-and-postgresql/learn/quiz/4988632) (4 questions)
@@ -176,22 +186,26 @@ Stephen Grider
 - [ ] [Exercise Solution](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802175) (01:19)
 
 ## 10. Selecting Distinct Records
+
 - [ ] [Selecting Distinct Values](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802225) (04:14)
 - [ ] [Exercise Overview](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802227) (00:29)
 - [ ] [Some Practice with Distinct](https://udemy.com//course/sql-and-postgresql/learn/quiz/4992766) (1 question)
 - [ ] [A Distinct Solution](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802229) (00:40)
 
 ## 11. Utility Operators, Keywords, and Functions
+
 - [ ] [The Greatest Value in a List](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802231) (03:20)
 - [ ] [And the Least Value in a List!](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802235) (02:01)
 - [ ] [The Case Keyword](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802237) (04:13)
 
 ## 12. Local PostgreSQL Installation
+
 - [ ] [PostgreSQL Installation on macOS](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802245) (05:47)
 - [ ] [PGAdmin Setup on macOS](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802249) (04:56)
 - [ ] [Postgres installation on Windows](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802255) (03:55)
 
 ## 13. PostgreSQL Complex Datatypes
+
 - [ ] [What'd We Just Do?](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802257) (04:02)
 - [ ] [Data Types](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802259) (04:09)
 - [ ] [Fast Rules on Numeric Data Types](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802263) (02:01)
@@ -202,6 +216,7 @@ Stephen Grider
 - [ ] [Really Awesome Intervals](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802289) (05:44)
 
 ## 14. Database-Side Validation and Constraints
+
 - [ ] [Thinking About Validation](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802295) (04:12)
 - [ ] [Creating and Viewing Tables in PGAdmin](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802299) (07:19)
 - [ ] [Applying a Null Constraint](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802305) (06:24)
@@ -217,6 +232,7 @@ Stephen Grider
 - [ ] [So Where Are We Applying Validation?](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802331) (05:46)
 
 ## 15. Database Structure Design Patterns
+
 - [ ] [Approaching More Complicated Designs](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802333) (03:13)
 - [ ] [Using a SQL Design Tool](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802339) (06:06)
 - [ ] [A Config-based Schema Designer](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802341) (07:02)
@@ -224,6 +240,7 @@ Stephen Grider
 - [ ] [Rebuilding Some Schema](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802349) (06:54)
 
 ## 16. How to Build a 'Like' System
+
 - [ ] [Requirements of a Like System](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802355) (04:35)
 - [ ] [How Not to Design a Like System](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802357) (02:58)
 - [ ] [Designing a Like System](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802359) (05:04)
@@ -236,6 +253,7 @@ Stephen Grider
 - [ ] [So Which Approach?](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802389) (04:21)
 
 ## 17. How to Build a 'Mention' System
+
 - [ ] [Additional Features Around Posts](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802391) (06:10)
 - [ ] [Adding Captions and Locations](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802393) (01:39)
 - [ ] [Photo Mentions vs Caption Mentions](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802397) (07:27)
@@ -243,6 +261,7 @@ Stephen Grider
 - [ ] [Update For Tags](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802407) (05:01)
 
 ## 18. How to Build a 'Hashtag' System
+
 - [ ] [Designing a Hashtag System](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802409) (07:33)
 - [ ] [Tables for Hashtags](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802415) (03:36)
 - [ ] [Including the Hashtag Table](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802419) (04:06)
@@ -250,9 +269,11 @@ Stephen Grider
 - [ ] [Why No Number of Followers or Posts?](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802435) (03:44)
 
 ## 19. How to Design a 'Follower' System
+
 - [ ] [Designing a Follower System](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802447) (05:50)
 
 ## 20. Implementing Database Design Patterns
+
 - [ ] [Back to Postgres](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802551) (01:45)
 - [ ] [Creating Tables with Checks](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802555) (13:00)
 - [ ] [Posts Creation](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802557) (08:31)
@@ -262,6 +283,7 @@ Stephen Grider
 - [ ] [Creating Hashtags, Hashtag Posts, and Followers](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802567) (06:27)
 
 ## 21. Approaching and Writing Complex Queries
+
 - [ ] [Quick Note About Adding Some Data](https://udemy.com//course/sql-and-postgresql/learn/lecture/22805609) (00:10)
 - [ ] [Adding Some Data](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802573) (04:06)
 - [ ] [Restoring from Scratch](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802577) (04:24)
@@ -273,6 +295,7 @@ Stephen Grider
 - [ ] [Solution for Likes Per User](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802631) (01:41)
 
 ## 22. Understanding the Internals of PostgreSQL
+
 - [ ] [Thinking About Performance](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802639) (02:02)
 - [ ] [Where Does Postgres Store Data?](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802643) (05:51)
 - [ ] [Heaps, Blocks, and Tuples](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802651) (03:36)
@@ -281,6 +304,7 @@ Stephen Grider
 - [ ] [Heap File Layout](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802657) (31:52)
 
 ## 23. A Look at Indexes for Performance
+
 - [ ] [Full Table Scans](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802661) (04:08)
 - [ ] [What's an Index](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802663) (02:23)
 - [ ] [How an Index Works](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802665) (07:58)
@@ -293,12 +317,14 @@ Stephen Grider
 - [ ] [Behind the Scenes of Indexes](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802683) (31:55)
 
 ## 24. Basic Query Tuning
+
 - [ ] [The Query Processing Pipeline](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802691) (04:57)
 - [ ] [Explain and Explain Analyze](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802695) (05:25)
 - [ ] [Explain Vs Explain Analyze](https://udemy.com//course/sql-and-postgresql/learn/quiz/5015156) (1 question)
 - [ ] [Solving an Explain Mystery](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802699) (08:58)
 
 ## 25. Advanced Query Tuning
+
 - [ ] [Developing an Intuitive Understanding of Cost](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802705) (11:57)
 - [ ] [Calculating Cost by Hand](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802707) (06:20)
 - [ ] [A Touch More on Costs](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802709) (07:17)
@@ -308,11 +334,13 @@ Stephen Grider
 - [ ] [Use My Index!](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802717) (07:55)
 
 ## 26. Simple Common Table Expressions
+
 - [ ] [Common Table Expressions](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802729) (01:52)
 - [ ] [A Quick Solution](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802733) (03:52)
 - [ ] [So What's a CTE?](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802737) (03:49)
 
 ## 27. Recursive Common Table Expressions
+
 - [ ] [Recursive CTE's](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802741) (03:18)
 - [ ] [Recursive CTE's Step by Step](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802753) (10:21)
 - [ ] [Why Use Recursive CTE's?](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802759) (04:33)
@@ -320,6 +348,7 @@ Stephen Grider
 - [ ] [Walking Through Recursion](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802767) (09:47)
 
 ## 28. Simplifying Queries with Views
+
 - [ ] [Most Popular Users](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802781) (06:16)
 - [ ] [A Possible Solution for Merging Tables](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802789) (03:51)
 - [ ] [Creating a View](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802793) (05:36)
@@ -327,6 +356,7 @@ Stephen Grider
 - [ ] [Deleting and Changing Views](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802803) (02:26)
 
 ## 29. Optimizing Queries with Materialized Views
+
 - [ ] [Materialized Views](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802807) (02:18)
 - [ ] [Grouping by Week](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802809) (04:08)
 - [ ] [Reminder on Left Joins](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802811) (04:29)
@@ -335,6 +365,7 @@ Stephen Grider
 - [ ] [Views vs Materialized Views](https://udemy.com//course/sql-and-postgresql/learn/quiz/5016506) (2 questions)
 
 ## 30. Handling Concurrency and Reversibility with Transactions
+
 - [ ] [What are Transactions Used For?](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802825) (04:03)
 - [ ] [Some Sample Data](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802827) (01:59)
 - [ ] [Opening and Closing Transactions](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802831) (09:44)
@@ -342,6 +373,7 @@ Stephen Grider
 - [ ] [Closing Aborted Transactions](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802839) (01:45)
 
 ## 31. Managing Database Design with Schema Migrations
+
 - [ ] [A Story on Migrations](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802845) (17:13)
 - [ ] [Migration Files](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802847) (05:00)
 - [ ] [Issues Solved by Migrations](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802849) (02:51)
@@ -353,6 +385,7 @@ Stephen Grider
 - [ ] [Generating and Applying a Second Migration](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802863) (03:37)
 
 ## 32. Schema vs Data Migrations
+
 - [ ] [Schema vs Data Migrations](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802869) (04:08)
 - [ ] [Dangers Around Data Migrations](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802873) (09:06)
 - [ ] [Properly Running Data and Schema Migrations](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802875) (05:28)
@@ -368,6 +401,7 @@ Stephen Grider
 - [ ] [Dropping the Last Columns](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802903) (03:01)
 
 ## 33. Accessing PostgreSQL From API's
+
 - [ ] [Section Goal](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802907) (00:52)
 - [ ] [Initial Setup](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802909) (01:34)
 - [ ] [One Fast Migration](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802911) (05:01)
@@ -377,6 +411,7 @@ Stephen Grider
 - [ ] [Query and Close](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802923) (01:57)
 
 ## 34. Data Access Pattern - Repositories
+
 - [ ] [The Repository Pattern](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802925) (03:38)
 - [ ] [Creating a Repository](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802927) (08:20)
 - [ ] [Accessing the API](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802931) (03:51)
@@ -385,6 +420,7 @@ Stephen Grider
 - [ ] [Finding Particular Users](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802939) (05:26)
 
 ## 35. Security Around PostgreSQL
+
 - [ ] [SQL Injection Exploits](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802943) (06:40)
 - [ ] [Handling SQL Injection with Prepared Statements](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802947) (07:48)
 - [ ] [Preventing SQL Injection](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802949) (07:32)
@@ -394,6 +430,7 @@ Stephen Grider
 - [ ] [And, Finally, Delete](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802961) (04:05)
 
 ## 36. Fast Parallel Testing
+
 - [ ] [A Note on Testing](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802969) (02:47)
 - [ ] [Assertions Around User Count](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802977) (07:04)
 - [ ] [Connecting to a DB For Tests](https://udemy.com//course/sql-and-postgresql/learn/lecture/22802979) (05:01)
@@ -413,4 +450,5 @@ Stephen Grider
 - [ ] [Finally... Parallel Tests!](https://udemy.com//course/sql-and-postgresql/learn/lecture/22803019) (03:32)
 
 ## 37. Bonus!
+
 - [ ] [Bonus!](https://udemy.com//course/sql-and-postgresql/learn/lecture/24835564) (00:14)
