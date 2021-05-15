@@ -1,4 +1,4 @@
-https://www.adsrsounds.com/product/courses/masterclass-compression-for-electronic-music-producers/
+https://www.adsrsounds.com/product/courses/masterclass-compression-for-electronic-music-producers/s/
 
 - [ ] 01 Basic features overview (15:17)
 - [ ] 02 Compression course (17:07)

@@ -5,12 +5,12 @@ Progress bars are [generated](generate-readme.js) from the Markdown files in eac
 ## Coding
 - ![25%](https://progress-bar.dev/25/) [The definitive guide to form-based website authentication](coding/authentication-stackoverflow.md) by Stack Overflow
 - ![84%](https://progress-bar.dev/84/) [Docker and Kubernetes: The Complete Guide](coding/docker-kubernetes-grider.md) by Stephen Grider
-- ![0%](https://progress-bar.dev/0/) [Typescript: The Complete Developer's Guide [2020]](coding/typescript-grider.md) by Stephen Grider
 - ![4%](https://progress-bar.dev/4/) [SQL and PostgreSQL: The Complete Developer's Guide](coding/sql-grider.md) by Stephen Grider
+- ![0%](https://progress-bar.dev/0/) [Typescript: The Complete Developer's Guide [2020]](coding/typescript-grider.md) by Stephen Grider
 
 ## Economics
 - ![23%](https://progress-bar.dev/23/) [Naked Economics](economics/naked-economics.md) by Charles Wheelan
-- ![0%](https://progress-bar.dev/0/) [Poor Economics: A Radical Rethinking of the Way to Fight Global Policy](economics/poor-economics.md) by Abhijit V. Banerjee & Esther Duflo
+- ![13%](https://progress-bar.dev/13/) [Poor Economics: A Radical Rethinking of the Way to Fight Global Policy](economics/poor-economics.md) by Abhijit V. Banerjee & Esther Duflo
 
 ## Music
 
